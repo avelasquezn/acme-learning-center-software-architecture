@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"c4.diagram.renderer": "structurizr",
+		"c4.diagram.plantuml.enabled": false,
+		"c4.diagram.structurizr.enabled": true
+	}
+}
